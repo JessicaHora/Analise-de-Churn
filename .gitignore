@@ -1,4 +1,4 @@
-# Object file
+venv/
 *.o
 
 # Ada Library Information
